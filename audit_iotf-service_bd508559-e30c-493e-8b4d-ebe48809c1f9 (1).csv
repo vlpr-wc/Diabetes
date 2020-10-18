@@ -1,0 +1,53 @@
+"docType:""iam.identity-access-map""",,,,,,,
+"version:""1.0.0""",,,,,,,
+"createdById:""IBMid-5500091WPX""",,,,,,,
+"date:""2020-10-18T16:16:51.824Z""",,,,,,,
+fullReport:true,,,,,,,
+"displayName:""Dr. Vijaya Laxmi M""",,,,,,,
+"contact:""vlpr.wc@gmail.com""",,,,,,,
+Resource,ID,Name,Email,Group Members,Role,Action,Policy IDs
+"{""crn"":""crn:v1:bluemix:public:iotf-service:eu-gb:a/b6f5d96452cd4cb0bb946c4bed60c7e1:bd508559-e30c-493e-8b4d-ebe48809c1f9::"",
+""displayName"":""Internet of Things Platform-z6"",
+""serviceName"":""iotf-service"",
+""resourceGroupId"":""d894c021ae674c2d862338e33f5d51d9"",
+""resourceGroupName"":""Default""}",IBMid-5500091WPX,Dr. Vijaya Laxmi M,vlpr.wc@gmail.com,,Administrator,iotf-service.dashboard.view View Dashboard,639b2b00-a17a-4e78-9d18-ab19da6a5b07
+,,,,,Manager,"global-search-tagging.resource.read Find cloud resources
+iam.policy.read IAM Policy Read",639b2b00-a17a-4e78-9d18-ab19da6a5b07
+,,,,,Administrator,"resource-controller.key.delete Resource Key Delete
+global-search-tagging.resource.read Find cloud resources
+iam.policy.update IAM Policy Update
+resource-controller.instance.create Resource Instance Create
+resource-controller.key.retrieve Resource Key Retrieve 
+iam.role.read IAM Role Read
+resource-controller.alias.retrieve Resource Alias Retrieve
+resource-controller.group.retrieve Resource Group Retrieve
+iam.policy.create IAM Policy Create
+resource-controller.key.update Resource Key Update
+resource-controller.instance.retrieve Resource Instance Retrieve
+resource-controller.quota.retrieve Quota Definitions Retrieve
+resource-controller.broker.retrieve Resource Broker Retrieve
+resource-controller.key.create Resource Key Create
+global-search-tagging.tag.attach-user-tag Attach tag
+iam.delegationPolicy.create IAM Delegation policy Create
+resource-controller.alias.create Resource Alias Create
+resource-controller.instance.retrieve_history Resource Instance Retrieve History
+iam.policy.delete IAM Policy Delete
+iam.service.read IAM Service Read
+iam.role.assign IAM Role Assign
+resource-controller.group.update Resource Group Update
+resource-controller.group.delete Resource Group Delete
+resource-controller.alias.delete Resource Alias Delete
+iam.policy.read IAM Policy Read
+resource-controller.broker.update Resource Broker Update
+resource-controller.broker.delete Resource Broker Delete
+resource-controller.binding.update Resource Binding Update
+global-search-tagging.tag.detach-user-tag Detach tag
+resource-controller.binding.create Resource Binding Create 
+resource-controller.instance.update Resource Instance Update
+resource-controller.alias.update Resource Alias Update 
+resource-controller.group.create Resource Group Create
+resource-controller.binding.delete Resource Binding Delete
+resource-controller.binding.retrieve Resource Binding Retrieve
+resource-controller.broker.create Resource Broker Create
+resource-controller.instance.update_plan Resource Instance Update Plan
+resource-controller.instance.delete Resource Instance Delete",639b2b00-a17a-4e78-9d18-ab19da6a5b07
